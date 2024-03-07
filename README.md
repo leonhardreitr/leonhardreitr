@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 😄 I am Lenni, a master student in psychology at the University of Vienna
+- 🌱 I am part of Robert Böhm's group, where I work as a student assistant
+- 🔭 I’m currently working on a big Meta-Analysis, my master thesis and lot's of other stuff
+
+
+
 <!--
 **leonhardreitr/leonhardreitr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
