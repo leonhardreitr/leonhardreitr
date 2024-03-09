@@ -1,9 +1,8 @@
 ### Hi there 👋
-⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
-⭐ - 😄 I am Lenni, a master student in psychology at the University of Vienna                    ⭐
-⭐ - 🌱 I am part of Robert Böhm's group, where I work as a student assistant                     ⭐
-⭐ - 🔭 I am currently working on a big Meta-Analysis, my master thesis and lot's of other stuff  ⭐
-⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+- 😄 I am Lenni, a master student in psychology at the University of Vienna                    
+- 🌱 I am part of Robert Böhm's group, where I work as a student assistant                     
+- 🔭 I am currently working on a big Meta-Analysis, my master thesis and lot's of other stuff  
+⭐⭐⭐
 
 
 <!--
