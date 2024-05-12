@@ -1,8 +1,23 @@
-### Hi there 👋
-- 😄 I am Lenni, a master student in psychology at the University of Vienna                    
+<h1 align="center">Hi 👋! I'm Lenni </h1>
+
+<h3 align="center">Data Training Coordinator @ National Center for Ecological Analysis & Synthesis (NCEAS)</h3>
+<h3 align="center">Lecturer @ Bren School of Environmental Science & Management</h3>
+
+<br>
+
+😄 **Pronouns:** *He/him* 
+
+📝 **Personal website:** [leonhardreitr.github.io](https://leonhardreitr.github.io)
+
+### What am I up to? 
+
 - 🌱 I am part of Robert Böhm's group, where I work as a student assistant                     
 - 🔭 I am currently working on a big Meta-Analysis, my master thesis and lot's of other stuff  
 
+### Education
+
+- MS in Psychology @ University of Vienna (expected to finish June 2024)
+- BS in Psychology @ University of Vienna (2022)
 
 
 <!--
