@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋! I'm Lenni </h1>
 
-<h3 align="center">Data Training Coordinator @ National Center for Ecological Analysis & Synthesis (NCEAS)</h3>
-<h3 align="center">Lecturer @ Bren School of Environmental Science & Management</h3>
-
 <br>
 
 😄 **Pronouns:** *He/him* 
