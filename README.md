@@ -13,7 +13,7 @@
 
 ### Education
 
-- MS in Psychology @ University of Vienna (expected to finish June 2024)
+- MS in Psychology @ University of Vienna (2024; Graduated with honors lol)
 - BS in Psychology @ University of Vienna (2022)
 
 
