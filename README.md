@@ -8,13 +8,15 @@
 
 ### What am I up to? 
 
-- 🌱 I am part of Robert Böhm's group, where I work as a student assistant                     
-- 🔭 I am currently working on a big Meta-Analysis, my master thesis and lot's of other stuff  
+- 🌱 I am a Phd Student and PreDoc in Marketing at the university of vienna. My supervisor is Christoph Fuch                      
+- 🔭 I am interested in how individuals interact with technologies, ranging from A as in algorithm to V as in vaccines.
+- My work is strongly quantitative and I love to read about and do statistics as well as programming.  
 
 ### Education
 
-- MS in Psychology @ University of Vienna (2024; Graduated with honors lol)
-- BS in Psychology @ University of Vienna (2022)
+- Phd in Markedting/Management @ University of Vienna (2024-today)
+- MS in Psychology @ University of Vienna (2022-2024; Graduated with honors lol)
+- BS in Psychology @ University of Vienna (2019-2022)
 
 
 <!--
