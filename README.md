@@ -6,9 +6,10 @@
 
 📝 **Personal website:** [leonhardreitr.github.io](https://leonhardreitr.github.io)
 
+
 ### What am I up to? 
 
-- 🌱 I am a Phd Student and PreDoc in Marketing at the university of vienna. My supervisor is Christoph Fuch                      
+- 🌱 I am a Phd Student and PreDoc in Marketing at the University of Vienna. My supervisor is Christoph Fuch                      
 - 🔭 I am interested in how individuals interact with technologies, ranging from A as in algorithm to V as in vaccines.
 - My work is strongly quantitative and I love to read about and do statistics as well as programming.  
 
