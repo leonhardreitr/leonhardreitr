@@ -15,7 +15,7 @@
 
 ### Education
 
-- Phd in Markedting/Management @ University of Vienna (2024-today)
+- Phd in Marketing/Management @ University of Vienna (2024-today)
 - MS in Psychology @ University of Vienna (2022-2024; Graduated with honors lol)
 - BS in Psychology @ University of Vienna (2019-2022)
 
