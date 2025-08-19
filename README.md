@@ -43,6 +43,6 @@
 
 <p align="center">
   <a href="https://leonhardreitr.github.io"><img src="https://img.shields.io/badge/Website-181717?style=for-the-badge&logo=github&logoColor=white" alt="Website"/></a>
-  <a href="www.linkedin.com/in/leonhard-reiter-a93470229"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="[www.linkedin.com/in/leonhard-reiter-a93470229](https://www.linkedin.com/in/leonhard-reiter-a93470229/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:leonhard.reiter@univie.ac.at"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
