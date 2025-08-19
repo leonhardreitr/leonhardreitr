@@ -50,6 +50,7 @@ My work is strongly **quantitative**, and I love digging into **statistics, prog
 </td>
 </tr>
 </table>
+
 ---
 
 ## 🖥 IDEs & Tools I Like  
