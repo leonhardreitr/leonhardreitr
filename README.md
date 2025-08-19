@@ -1,36 +1,48 @@
-<h1 align="center">Hi 👋! I'm Lenni </h1>
+<h1 align="center">Hi 👋, I'm Lenni</h1>
+<h3 align="center">PhD Student in Marketing @ University of Vienna</h3>
 
-<br>
+---
 
-😄 **Pronouns:** *He/him* 
+😄 **Pronouns:** *he/him*  
+📝 **Website:** [leonhardreitr.github.io](https://leonhardreitr.github.io)  
 
-📝 **Personal website:** [leonhardreitr.github.io](https://leonhardreitr.github.io)
+---
+### 👨‍🎓 About Me  
 
+- 🌱 I’m currently a **PhD student and PreDoc in Marketing** at the **University of Vienna**  
+- 🔭 I’m interested in **how individuals interact with technologies** — from **A** (algorithms) to **V** (vaccines)  
+- 📊 I love **statistics, quantitative methods, and programming**  
+- 💡 My background is in **Psychology**, now applied in the world of **Marketing & Management**  
+---
 
-### What am I up to? 
+### 🎓 Education  
 
-- 🌱 I am a Phd Student and PreDoc in Marketing at the University of Vienna. My supervisor is Christoph Fuch                      
-- 🔭 I am interested in how individuals interact with technologies, ranging from A as in algorithm to V as in vaccines.
-- My work is strongly quantitative and I love to read about and do statistics as well as programming.  
+- 📚 **PhD in Marketing/Management** — University of Vienna *(2024–today)*  
+- 🎓 **MSc in Psychology** — University of Vienna *(2022–2024; graduated with honors ✨)*  
+- 🎓 **BSc in Psychology** — University of Vienna *(2019–2022)*  
 
-### Education
+---
 
-- Phd in Marketing/Management @ University of Vienna (2024-today)
-- MS in Psychology @ University of Vienna (2022-2024; Graduated with honors lol)
-- BS in Psychology @ University of Vienna (2019-2022)
+### 🛠️ Tech & Tools I Like  
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,git,latex,quarto,vscode,github,obsidian&theme=light" />
+</p>
 
-<!--
-**leonhardreitr/leonhardreitr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📈 GitHub Stats  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leonhardreitr&show_icons=true&theme=tokyonight" alt="Lenni's GitHub stats" />
+</p>
+
+---
+
+### 🌍 Connect with Me  
+
+<p align="center">
+  <a href="https://leonhardreitr.github.io"><img src="https://img.shields.io/badge/Website-181717?style=for-the-badge&logo=github&logoColor=white" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/leonhard-reiter/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:leonhard.reiter@univie.ac.at"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
