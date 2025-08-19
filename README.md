@@ -12,7 +12,7 @@
 - 🌱 I’m currently a **PhD student and PreDoc in Marketing** at the **University of Vienna**  
 - 🔭 I’m interested in **how individuals interact with technologies** — from **A** (algorithms) to **V** (vaccines)  
 - 📊 I love **statistics, quantitative methods, and programming**  
-- 💡 My background is in **Psychology**, now applied in the world of **Marketing & Management**  
+- 💡 My background is in (economic) **Psychology**, now applied in the world of **Marketing & Management**  
 ---
 
 ### 🎓 Education  
