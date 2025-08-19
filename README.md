@@ -23,10 +23,10 @@
 
 ---
 
-### 🛠️ Tech & Tools I Like  
+### 🛠️ Tools I Like & Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,git,latex,quarto,vscode,github,obsidian&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,r,git,latex,vscode,github,obsidian&theme=light" />
 </p>
 
 ---
