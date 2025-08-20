@@ -79,7 +79,8 @@ My work is strongly **quantitative**, and I love digging into **statistics, prog
 <img src="https://img.shields.io/badge/Books-795548?style=for-the-badge&logo=bookstack&logoColor=white" />
 <img src="https://img.shields.io/badge/Cats-FF69B4?style=for-the-badge&logo=github-sponsors&logoColor=white" />
 </p>
+
 ---
 
-*Updated: 2025-08-19*  
+*Updated: 2025-08-20*  
 
